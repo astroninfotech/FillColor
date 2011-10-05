@@ -1,0 +1,197 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* FillColorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1287}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 614}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* FillColor */ = {
+		activeExec = 0;
+		executables = (
+			F4A8A78C125DD2BE0032E09E /* FillColor */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FillColorViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {734, 424}}";
+			sepNavSelRange = "{270, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FillColorViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 2704}}";
+			sepNavSelRange = "{1208, 0}";
+			sepNavVisRange = "{746, 1220}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F4A8A78C125DD2BE0032E09E /* FillColor */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* FillColor */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* FillColor */,
+		);
+		breakpoints = (
+			F4A8A7C6125DD5100032E09E /* LearnAlphabetView.m:29 */,
+		);
+		codeSenseManager = F4A8A791125DD2DC0032E09E /* Code sense */;
+		executables = (
+			F4A8A78C125DD2BE0032E09E /* FillColor */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					637,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308150281;
+			PBXWorkspaceStateSaveDate = 308150281;
+		};
+		perUserProjectItems = {
+			F4A8A7B4125DD4CC0032E09E /* PBXTextBookmark */ = F4A8A7B4125DD4CC0032E09E /* PBXTextBookmark */;
+			F4A8A827125DD7B30032E09E /* PBXBookmark */ = F4A8A827125DD7B30032E09E /* PBXBookmark */;
+			F4A8A82F125DDE890032E09E /* PBXTextBookmark */ = F4A8A82F125DDE890032E09E /* PBXTextBookmark */;
+			F4A8A831125DDE890032E09E /* PBXTextBookmark */ = F4A8A831125DDE890032E09E /* PBXTextBookmark */;
+			F4A8A91C125E07F00032E09E /* PBXTextBookmark */ = F4A8A91C125E07F00032E09E /* PBXTextBookmark */;
+		};
+		sourceControlManager = F4A8A790125DD2DC0032E09E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F4A8A78C125DD2BE0032E09E /* FillColor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FillColor;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F4A8A790125DD2DC0032E09E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F4A8A791125DD2DC0032E09E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F4A8A793125DD31C0032E09E /* LearnAlphabetView.m */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.objc;
+		name = LearnAlphabetView.m;
+		path = /Users/yogita/Desktop/FillColor/Classes/LearnAlphabetView.m;
+		sourceTree = "<absolute>";
+	};
+	F4A8A7B4125DD4CC0032E09E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FillColorAppDelegate.m */;
+		name = "FillColorAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 614;
+		vrLoc = 0;
+	};
+	F4A8A7C6125DD5100032E09E /* LearnAlphabetView.m:29 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F4A8A793125DD31C0032E09E /* LearnAlphabetView.m */;
+		functionName = "-initWithImage:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 29;
+		location = FillColor;
+		modificationTime = 308139283.2184361;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	F4A8A827125DD7B30032E09E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F4A8A795125DD33F0032E09E /* B2s.png */;
+	};
+	F4A8A82F125DDE890032E09E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FillColorViewController.h */;
+		name = "FillColorViewController.h: 13";
+		rLen = 0;
+		rLoc = 270;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 0;
+	};
+	F4A8A831125DDE890032E09E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FillColorViewController.m */;
+		name = "FillColorViewController.m: 142";
+		rLen = 0;
+		rLoc = 4678;
+		rType = 0;
+		vrLen = 1040;
+		vrLoc = 4387;
+	};
+	F4A8A91C125E07F00032E09E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FillColorViewController.m */;
+		name = "FillColorViewController.m: 52";
+		rLen = 0;
+		rLoc = 1208;
+		rType = 0;
+		vrLen = 1220;
+		vrLoc = 746;
+	};
+}
